@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part1", "Part1\Part1.csproj", "{868AF591-3504-4F94-BC9A-E71FF3C2D04C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part4", "Part4\Part4.csproj", "{07B27515-5DDE-4E74-B7D2-5D566872B51A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersDemo", "IndexersDemo\IndexersDemo.csproj", "{215023BA-932F-4819-AC65-C7DAAE302D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868AF591-3504-4F94-BC9A-E71FF3C2D04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868AF591-3504-4F94-BC9A-E71FF3C2D04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868AF591-3504-4F94-BC9A-E71FF3C2D04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868AF591-3504-4F94-BC9A-E71FF3C2D04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B27515-5DDE-4E74-B7D2-5D566872B51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B27515-5DDE-4E74-B7D2-5D566872B51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B27515-5DDE-4E74-B7D2-5D566872B51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B27515-5DDE-4E74-B7D2-5D566872B51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215023BA-932F-4819-AC65-C7DAAE302D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215023BA-932F-4819-AC65-C7DAAE302D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215023BA-932F-4819-AC65-C7DAAE302D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215023BA-932F-4819-AC65-C7DAAE302D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
